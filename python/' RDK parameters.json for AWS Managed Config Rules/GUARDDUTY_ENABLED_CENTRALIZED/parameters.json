@@ -13,7 +13,10 @@
       "rulecriticity:high",
       "pci",
       "pci:10.6",
-      "guardduty"
+      "guardduty",
+      "mas",
+      "mas:9.6.1",
+      "mas:9.6.4"
     ]
   }
 }

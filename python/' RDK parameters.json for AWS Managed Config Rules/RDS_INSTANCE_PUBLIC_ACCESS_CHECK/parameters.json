@@ -12,7 +12,9 @@
       "rulecriticity:critical", 
       "pci",
       "pci:1.2",
-      "rds"
+      "rds",
+      "mas",
+      "mas:9.0.2"
     ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "DB_INSTANCE_BACKUP_ENABLED",
+    "CodeKey": "",
+    "SourceRuntime": "",
+    "InputParameters": "{\"checkReadReplicas\":\"false\"}",
+    "SourceIdentifier": "DB_INSTANCE_BACKUP_ENABLED",
+    "RuleSets": [
+      "mas",
+      "mas:8.4.1"
+    ]
+  }
+}

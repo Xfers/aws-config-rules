@@ -13,7 +13,9 @@
       "rulecriticity:critical",
       "pci",
       "pci:7.1",
-      "s3"
+      "s3",
+      "mas",
+      "mas:9.0.2"
     ]
   }
 }

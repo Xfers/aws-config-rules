@@ -1,0 +1,14 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "S3_BUCKET_REPLICATION_ENABLED",
+    "CodeKey": "",
+    "SourceRuntime": "",
+    "InputParameters": "{}",
+    "SourceIdentifier": "S3_BUCKET_REPLICATION_ENABLED",
+    "RuleSets": [
+      "mas",
+      "mas:8.2.6"
+    ]
+  }
+}

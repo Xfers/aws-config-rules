@@ -10,7 +10,9 @@
       "rulecriticity:high",
       "pci",
       "pci:8.1",
-      "iam"
+      "iam",
+      "mas",
+      "mas:11.2.3a"
     ]
   }
 }

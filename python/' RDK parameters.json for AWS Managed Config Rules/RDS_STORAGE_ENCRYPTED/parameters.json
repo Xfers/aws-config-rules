@@ -11,7 +11,9 @@
       "rulecriticity:high", 
       "pci",
       "pci:3.4",
-      "rds"
+      "rds",
+      "mas",
+      "mas:9.1.6"
     ]
   }
 }

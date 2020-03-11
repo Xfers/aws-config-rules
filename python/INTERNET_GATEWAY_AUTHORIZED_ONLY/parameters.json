@@ -11,7 +11,9 @@
       "accountclassification:secret",
       "accountclassification:confidential",
       "rulecriticity:high",
-      "pci"
+      "pci",
+      "mas",
+      "mas:9.0.1"
     ]
   }
 }

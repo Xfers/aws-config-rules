@@ -1,0 +1,15 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "RDS_MULTI_AZ_SUPPORT",
+    "CodeKey": "",
+    "SourceRuntime": "",
+    "InputParameters": "{}",
+    "SourceIdentifier": "RDS_MULTI_AZ_SUPPORT",
+    "RuleSets": [
+      "mas",
+      "mas:8.2.5",
+      "mas:8.2.7"
+    ]
+  }
+}

@@ -13,7 +13,9 @@
       "rulecriticity:critical",
       "pci",
       "pci:8.3",
-      "root"
+      "root",
+      "mas",
+      "mas:11.2.3a"
     ]
   }
 }

@@ -12,7 +12,9 @@
       "rulecriticity:high",
       "pci",
       "pci:1.2",
-      "vpc"
+      "vpc",
+      "mas",
+      "mas:9.0.1"
     ]
   }
 }
